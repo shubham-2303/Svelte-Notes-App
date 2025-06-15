@@ -19,6 +19,8 @@ Tailwind CSS
 **Clone the Repo
 
 git clone https://github.com/your-username/svelte-notes-app.git
+
+
 cd svelte-notes-app
 Install Dependencies
 npm run dev
